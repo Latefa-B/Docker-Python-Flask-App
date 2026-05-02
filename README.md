@@ -1,4 +1,4 @@
-# Dockerizing a Simple Dynamic Web Application (Python Flask)
+# Step-by-step Guide to Dockerizing a Simple Dynamic Web Application (Python Flask)
 Dockerizing a Simple Web Application involves deploying the Website and its dependencies into a container. This concept of containerization provides several benefits, including : isolation, portability, increased efficiency, an easier scaling and consistency across different environments. 
 This comprehensive step-by-step guide walks you through the process of Dockerizing, a dynamic Python Flask web application on AWS. In this lab,  we will explore the foundational steps of containerizing a simple dynamic website, using services like : Docker, Python and Flask framework. The aim of this project is to : 
 Learn how to package a simple dynamic website into a lightweight, portable container that can run consistently across any environment. 
